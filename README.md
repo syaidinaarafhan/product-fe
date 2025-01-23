@@ -33,3 +33,6 @@ npm run build
 ```sh
 npm run lint
 ```
+### Dokumentasi
+
+untuk vue js hanya perlu menginstall npm i axios dan cara menjalankannya dengan npm run dev di terminal
